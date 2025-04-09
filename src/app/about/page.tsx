@@ -32,15 +32,12 @@ export default function Page() {
 
             <p className="text-xl leading-8">
               Hi, everyone, I&apos;m <span className="text-black dark:text-white">Brian Salvatore</span>.<br />
-              I&apos;m <span className="text-black dark:text-white">Senior Full Stack, Blockchain Developer</span> and{' '}
-              <span className="text-black dark:text-white">E-commerce & CMS Expert</span>.
+              I&apos;m <span className="text-black dark:text-white">Senior Full-Stack Engineer,  Blockchain, AI</span> and{' '}
+              <span className="text-black dark:text-white">E-commerce & CMS Specialist</span>
               <br />
-              <br />I have 7+ years&apos; experience for web development. During last years, I had earned many skills to
-              develop and manage a website and it now helps for a new project to develop in a high quality, rapidly.
+              <br />With 8+ years of experience, &apos; I have a strong background in e-commerce platforms, CMS development, and smart contracts, delivering high-performance, secure, and innovative solutions.
               <br />
-              <br />I like to work with a simple communication, a clean and optimized code convention, a high quality
-              development for collaboration and maintenance, and a keeping schedules for a project. I also love learning
-              a new thing from analyzing, discussing and resolving variable claims.
+              <br />I prioritize clear communication, clean code, high-quality development, and meeting deadlines, always seeking to learn new technologies, analyze challenges, and collaborate on impactful solutions.
             </p>
           </div>
 
@@ -66,13 +63,12 @@ export default function Page() {
 
         <div className="text-xl leading-8 lg:w-1/2 px-10 mt-28 mx-auto">
           <p>
-            For many aspects, such as Requirement Analysis, Architect Design, Database Modeling, Front-end/Back-end
-            Coding and Maintenance, I support reliable and qualified service.
+            I provide reliable and high-quality services in areas such as Requirement Analysis, Architectural Design, Database Modeling, Front-end/Back-end Development, and Ongoing Maintenance.
           </p>
-          <ul className="list-disc list-inside ml-5">
-            <li>Fast Progress, Best Quality and Constant Report</li>
-            <li>Cooperative Idea Support and so on</li>
-          </ul>
+          <p>
+            I focus on rapid progress, top-notch quality, and regular updates, while also offering collaborative idea support to ensure the success of the project.
+          </p>
+          
         </div>
       </section>
     </RootLayout>

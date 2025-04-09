@@ -37,13 +37,13 @@ export default function Page() {
             <div className="py-14">
               <ul className="text-2xl leading-10">
                 <li>
-                  <strong className="text-black dark:text-white">Senior</strong> Full Stack Developer
+                  <strong className="text-black dark:text-white">CEO & Senior</strong> Full-Stack Engineer
                 </li>
                 <li>
-                  <strong className="text-black dark:text-white">SEO</strong> Expert
+                  <strong className="text-black dark:text-white">MERN & LAMP</strong>
                 </li>
                 <li>
-                  Continuously <strong className="text-black dark:text-white">Learning</strong>
+                  Blockchain, AI, E-commerce & CMS <strong className="text-black dark:text-white">Specialist</strong>
                 </li>
               </ul>
             </div>
@@ -69,13 +69,11 @@ export default function Page() {
               Let me <span className="text-black dark:text-white">Introduce</span> myself
             </h2>
             <p className="text-xl leading-8">
-              As an accomplished Senior Full Stack Developer specializing in SEO and MERN Stack development, I offer a
-              proven track record of crafting resilient and intuitive web applications. Proficient in front-end and
-              back-end technologies, I specialize in delivering scalable solutions that elevate user experiences and
-              boost organic traffic through strategic SEO tactics. Leveraging my expertise in the MERN Stack, I create
-              dynamic, responsive applications tailored to meet the evolving demands of contemporary businesses.
-              Committed to continuous learning and staying abreast of cutting-edge technologies, I am adept at
-              delivering pioneering solutions that surpass client expectations.
+            I am an experienced CEO & Senior Full-Stack Engineer specializing in MERN & LAMP stacks, Blockchain, AI/ML, E-commerce platforms, and CMS solutions. With a strong background in modern web technologies, I have a proven track record of developing scalable, high-performance applications for various industries.
+
+I have worked extensively with AWS, Docker, Kubernetes, and CI/CD pipelines, ensuring seamless deployment and robust infrastructure. My expertise includes smart contract development, NFT marketplaces, and Web3 solutions, as well as building secure and efficient API architectures.
+
+Passionate about innovation, I am always eager to explore new technologies and optimize system performance.
               <br />
               <br />
               Web Application Development is not only my job, but also my life.
@@ -100,28 +98,24 @@ export default function Page() {
         <div className="grid md:grid-cols-2">
           <div className="px-10">
             <h3 className="text-3xl capitalize text-center text-black dark:text-white pb-5">
-              SEO Optimization Project for Website Enhancement
+                Scalable, High-performance Web Application
             </h3>
             <p className="text-xl leading-8">
-              Successfully improved SEO performance by identifying and resolving critical issues through a comprehensive
-              technical audit, leading to enhanced website functionality and user experience.
+                As a Web Application Engineer, I have successfully designed and developed scalable, high-performance web applications using modern frameworks like MERN and LAMP stacks. 
             </p>
             <p className="text-xl leading-8">
-              Optimized keyword usage and search engine visibility by developing a robust semantic core, contributing to
-              increased organic traffic and improved search rankings.
+                My expertise in cloud infrastructure, API development, and security optimization has helped businesses enhance their digital presence and streamline operations. I am passionate about building innovative, user-centric solutions that drive efficiency and growth.
             </p>
           </div>
           <div className="px-10">
             <h3 className="text-3xl capitalize text-center text-black dark:text-white pb-5">
-              Web Application Development and Optimization Project
+                Secure Blockchain Solutions, High-Performance E-commerce Platforms
             </h3>
             <p className="text-xl leading-8">
-              Enhanced development efficiency by 20% through React implementation and reduced communication latency by
-              30% with DynamoDB configuration.
+                As a Blockchain, AI, E-commerce & CMS Specialist, I have successfully developed secure blockchain solutions, AI-driven applications, and high-performance e-commerce platforms that enhance user engagement and business efficiency.
             </p>
             <p className="text-xl leading-8">
-              Improved team efficiency by 20% through process standardization, achieved a 15% increase in organic
-              traffic, and enhanced site performance by 25% through technical SEO optimizations.
+                With expertise in smart contracts, NFT marketplaces, AI automation, and scalable CMS solutions, I have helped businesses innovate and optimize their digital operations. My focus is on building cutting-edge, secure, and user-friendly solutions that drive long-term success.
             </p>
           </div>
         </div>

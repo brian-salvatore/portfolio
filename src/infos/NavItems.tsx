@@ -17,7 +17,7 @@ const NavItems = [
   {
     name: 'Github',
     className: 'fork-btn-inner',
-    href: 'https://github.com/brian-salvatore/',
+    href: 'https://github.com/brian-salvatore',
     icon: () => (
       <>
         <CGGitFork style={{ fontSize: '1.2em' }} /> <PPStarFilled style={{ fontSize: '1.1em' }} />
